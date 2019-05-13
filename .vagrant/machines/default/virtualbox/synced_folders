@@ -1,0 +1,1 @@
+{"virtualbox":{"/app":{"guestpath":"/app","hostpath":"/Users/tech-a08/Documents/engineering-29/week8/devops/devEnvironments/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a08/Documents/engineering-29/week8/devops/devEnvironments","disabled":false,"__vagrantfile":true}}}
